@@ -1,4 +1,4 @@
-import { PEOPLE_URL } from "@/constants";
+import { PEOPLE_URL } from "@/src/constants";
 import Image from "next/image";
 import React from "react";
 

@@ -1,4 +1,4 @@
-import { NAV_LINKS } from "@/constants";
+import { NAV_LINKS } from "@/src/constants";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";

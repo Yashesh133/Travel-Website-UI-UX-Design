@@ -1,6 +1,6 @@
-import Navbar from "@/Components/Navbar";
 import "./globals.css";
-import Footer from "@/Components/Footer";
+import Navbar from "@/src/Components/Navbar";
+import Footer from "@/src/Components/Footer";
 
 export const metadata = {
   title: "Travel",
